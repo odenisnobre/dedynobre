@@ -1,6 +1,6 @@
 ### Olá pessoal, sou Denis Nobre 👋
 
-Aqui está algumas coisa sobre min:
+Aqui estão algumas informações sobre min:
 
 - Hoje trabalho com automação industrial especialista em integração de sistemas
 - Sou mestrando em Ciência da Computação
