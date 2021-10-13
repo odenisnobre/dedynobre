@@ -19,6 +19,7 @@ Aqui estão algumas informações sobre min:
   - Javascript
   - C#
   - Python
+  - nodejs
 - Entusiata(fanático) com tecnologias open source desenvolvendo projetos e integrações usando principalmente:
   - Node-RED(minha paixão)
   - Influxdb
