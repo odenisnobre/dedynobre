@@ -25,5 +25,5 @@ Aqui estão algumas informações sobre min:
   - Influxdb
   - Grafana
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Denis Nobre](https://github-readme-stats.vercel.app/api?username=dedynobre&show_icons=true&theme=radical)
 
