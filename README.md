@@ -18,7 +18,7 @@ Aqui estão algumas informações sobre min:
   - VBA
   - Javascript
   - C#
-  - Python <i class="devicon-python-plain-wordmark colored"></i>
+  - Python
   - Nodejs
 - Entusiata(fanático) com tecnologias open source desenvolvendo projetos e integrações usando principalmente:
   - Node-RED(minha paixão)
