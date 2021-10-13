@@ -1,6 +1,9 @@
 ### Olá pessoal, sou Denis Nobre 👋
 
-Aqui estão algumas informações sobre min:
+##### Resumo da minha atuação no github:
+![Denis Nobre](https://github-readme-stats.vercel.app/api?username=dedynobre&show_icons=true&theme=radical)
+
+#### Aqui estão algumas informações sobre min:
 
 - Hoje trabalho com automação industrial especialista em integração de sistemas trabalhando com alguns sistemas, como:
   - Programação Schneider - Unity Pro / Concept
@@ -25,5 +28,5 @@ Aqui estão algumas informações sobre min:
   - Influxdb
   - Grafana
 
-![Denis Nobre](https://github-readme-stats.vercel.app/api?username=dedynobre&show_icons=true&theme=radical)
+
 
